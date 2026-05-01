@@ -9,7 +9,7 @@ in this project, I practiced basic IT troubleshooting using command line tools. 
 - Chromebook (linux/Terminal access)
   ## What I did
   i used the ping command to test connectivity between my device and external servers. this helped verify whether the network connection was working properly.
-  ## steps Performed
+  ## Steps Performed
   1. opened terminal
   2. Ran ping google.com
   3. Observed response times and packet replies
