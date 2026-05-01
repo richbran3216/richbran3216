@@ -1,4 +1,5 @@
 # IT Troubleshooting Project 
+Beginner network troubleshooting project using command line tools
 ## Project summary
 in this project, I practiced basic IT troubleshooting using command line tools. The goal was to test network connectivity and understand how system communicate over a network.
 ## Tools Used 
