@@ -16,6 +16,6 @@ in this project, I practiced basic IT troubleshooting using command line tools. 
      ## Results
      The ping test showed successful replies, confirming that the network connection was active and stable
      ## Screenshots
-     ![ping test](ping-test.ping)
+     ![ping test](ping-test.png)
      ## Conclusion
      This project helped me understand how to quickly check network connectivityand troubleshoot basic connection issues.
