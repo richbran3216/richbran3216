@@ -1,10 +1,10 @@
 # IT Troubleshooting Project 
-##Project summary
+## Project summary
 in this project, I practiced basic IT troubleshooting using command line tools. The goal was to test network connectivity and understand how system communicate over a network.
 ## Tools Used 
 - Command Prompt
 - ping command
-- ##Environment
+- ## Environment
 - Chromebook (linux/Terminal access)
   ## What I did
   i used the ping command to test connectivity between my device and external servers. this helped verify whether the network connection was working properly.
