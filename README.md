@@ -18,4 +18,4 @@ in this project, I practiced basic IT troubleshooting using command line tools. 
      ## Screenshots
      ![ping test](ping-test.png)
      ## Conclusion
-     This project helped me understand how to quickly check network connectivityand troubleshoot basic connection issues.
+     This project helped me understand how to quickly check network connectivity and troubleshoot basic connection issues.
