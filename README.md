@@ -1,3 +1,9 @@
+# Hi, I'm Brandon 👋
+
+Entry level IT technician focused on troubleshooting and networking.  
+Currently building hands-on projects and learning real-world IT skills.
+
+---
 # IT Troubleshooting Project 
 Beginner network troubleshooting project using command line tools
 ## Project summary
