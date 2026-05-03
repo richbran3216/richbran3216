@@ -2,7 +2,7 @@
 
 I'm an entry-level IT technician focused on troubleshooting, networking, and help desk support.
 
-## 🧑🏾‍💻 Information Technology Projects:
+
 
 - **Basic IT Troubleshooting**
   💻 Information Technology Projects:
