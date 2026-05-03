@@ -12,8 +12,7 @@ I'm an entry-level IT technician focused on troubleshooting, networking, and hel
 ### 🔹 Network Diagnostics
 - [DNS Test](https://github.com/richbran3216/network-dns-test)
 
-### 🔹 IP Configuration
-- [IP Config Commands](https://github.com/richbran3216/ip-config-commands)
+
 
 ---
 
