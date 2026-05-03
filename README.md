@@ -29,4 +29,4 @@ I'm an entry-level IT technician focused on troubleshooting, networking, and hel
 - Cybersecurity basics
 
 ## 📫 Connect With Me:
-- LinkedIn:https://github.com/richbran3216/richbran3216/blob/main/README.md
+- LinkedIn:- LinkedIn: https://www.linkedin.com/in/brandon-barnes-7b85072a3
