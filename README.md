@@ -1,6 +1,6 @@
 # Hi, I'm Brandon 👋
 
-I'm an entry-level IT technician focused on troubleshooting, networking, and help desk support.
+I’m an entry-level IT technician focused on troubleshooting, networking, and help desk support. I build hands-on projects to demonstrate real-world IT skills.
 
 ---
 
