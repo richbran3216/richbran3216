@@ -21,4 +21,4 @@ I'm an entry-level IT technician focused on troubleshooting, networking, and hel
 - Cybersecurity basics
 
 ## 📫 Connect With Me:
-- LinkedIn: Add later
+- LinkedIn: https://www.linkedin.com/in/brandon-barnes-7b85072a3?utm_source=share_via&utm_content=profile&utm_medium=member_ios
