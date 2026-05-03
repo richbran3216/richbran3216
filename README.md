@@ -5,7 +5,16 @@ I'm an entry-level IT technician focused on troubleshooting, networking, and hel
 ## 🧑🏾‍💻 Information Technology Projects:
 
 - **Basic IT Troubleshooting**
-  - [Ping Connectivity Test](https://github.com/richbran3216/richbran3216)
+  💻 Information Technology Projects:
+
+- Basic IT Troubleshooting
+  - [Ping Connectivity Test](https://github.com/richbran3216/ping-test)
+
+- Network Diagnostics
+  - [DNS Test](https://github.com/richbran3216/network-dns-test)
+
+- IP Configuration
+  - [IP Config Commands](https://github.com/richbran3216/ip-config-commands)
 
 ## 🛠 Skills I'm Building:
 - Help Desk Support
